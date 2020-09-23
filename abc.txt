@@ -3,3 +3,6 @@ Restaurant website
 Menu available:
 Chicken
 Thanks
+Welcome
+Thank you
+
